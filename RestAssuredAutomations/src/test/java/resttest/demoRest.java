@@ -17,7 +17,7 @@ public class demoRest {
 	// Testing is required merge
 	//merge test yus
 	
-	// merege committed
+	// merege committed tdt
 	@Test
 	public void test() {
 
