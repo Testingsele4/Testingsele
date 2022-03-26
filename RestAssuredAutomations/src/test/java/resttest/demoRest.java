@@ -14,7 +14,7 @@ import io.restassured.response.Response;
 public class demoRest {
 	
 	
-	// Testing is required
+	// Testing is required merge
 
 	@Test
 	public void test() {
