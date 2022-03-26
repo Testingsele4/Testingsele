@@ -10,7 +10,7 @@ public class LoginPage {
 
 	WebDriver ldriver;
 	
-	//Gitbash committed sec added
+	//Gitbash committed sec added next time
 	//Git bash code 
 	public LoginPage(WebDriver rdriver)
 	{
