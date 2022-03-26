@@ -19,7 +19,11 @@ public class demoRest {
 	
 	// merege committed tdt
 	//change one
+<<<<<<< HEAD
 	//change three
+=======
+	//change two
+>>>>>>> refs/remotes/origin/CheckMergeTwo
 	@Test
 	public void test() {
 
